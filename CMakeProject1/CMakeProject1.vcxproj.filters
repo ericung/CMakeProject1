@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\unger\source\repos\CMakeProject1\CMakeProject1\CMakeProject1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\unger\source\repos\CMakeProject1\CMakeProject1\CMakeProject1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\unger\source\repos\CMakeProject1\CMakeProject1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{F756B2CE-97CB-3533-B03E-220519456489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B0EC5FEA-D2A4-3468-8A2B-27C9A3E251F0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
