@@ -10,6 +10,13 @@ if (POLICY CMP0141)
 endif()
 
 project ("CMakeProject1")
+#project ("server")
+project ("duplicatezeroes")
 
 # Include sub-projects.
 add_subdirectory ("CMakeProject1")
+
+#add_executable ("server" "CMakeProject2/server.c")
+
+add_executable ("duplicatezeroes" "CMakeProject2/duplicatezeroes.c")
+
